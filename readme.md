@@ -1,13 +1,14 @@
 # Project Setup
 
-[![Production Workflow 1](https://github.com/Nina098/IS219-Project3/actions/workflows/prod.yml/badge.svg)](https://github.com/Nina098/IS219-Project3/actions/workflows/prod.yml)
+[![Production Workflow](https://github.com/SPowers123/IS219Proj3V2/actions/workflows/prod.yml/badge.svg)](https://github.com/SPowers123/IS219Proj3V2/actions/workflows/prod.yml)
 
-* [Production Deployment](https://lamastra-is219-project3-prod.herokuapp.com/)
+* [Production Deployment](https://proj3v2-development.herokuapp.com/)
 
 
-[![Development Workflow 3.8](https://github.com/Nina098/IS219-Project3/actions/workflows/dev.yml/badge.svg)](https://github.com/Nina098/IS219-Project3/actions/workflows/dev.yml)
+[![Development Workflow](https://github.com/SPowers123/IS219Proj3V2/actions/workflows/dev.yml/badge.svg)](https://github.com/SPowers123/IS219Proj3V2/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://lamastra-is219-project3-dev.herokuapp.com/)
+* [Developmental Deployment](https://proj3v2-production.herokuapp.com/)
+
 
 ## Setting up CI/CD
 
