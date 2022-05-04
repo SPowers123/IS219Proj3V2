@@ -56,6 +56,6 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
           heroku_api_key: 2ab2a550-4c0a-4c58-8acd-c15279f8305d
-          heroku_app_name: proj1v3-production
+          heroku_app_name: proj3v2-production
           heroku_email: spowers.personal@gmail.com
           usedocker: true
